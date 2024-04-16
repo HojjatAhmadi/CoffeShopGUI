@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>image/cartfile.png</file>
+        <file>image/favicon.webp</file>
+        <file>image/icons8-clear-shopping-cart-60.png</file>
+        <file>image/icons8-clear-symbol-50.png</file>
+    </qresource>
+</RCC>
